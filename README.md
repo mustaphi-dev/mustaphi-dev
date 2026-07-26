@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Mustapha Adams
 
-<!--
-**mustaphi-dev/mustaphi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer** · MS Data Science @ University of Sunderland
 
-Here are some ideas to get you started:
+Building AI systems, machine learning models, Flutter apps, and open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+[![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,flutter,dart,js,ts,react,nodejs,rust,postgres,docker,git,linux,gcp)](https://skillicons.dev)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mustaphi-dev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=mustaphi-dev&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=mustaphi-dev&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mustaphi-dev&theme=tokyo-night&hide_border=true)
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+|  |  |
+|  |  |
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustapha-adams)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adams.mustapha.dev@gmail.com)
